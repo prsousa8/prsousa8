@@ -3,6 +3,8 @@
 - 🔭 Estudante de Engenharia de Computação
 - 🌱 Estudando C# e Javascript
 - 😄 Pronouns: ele/dele
+
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="200" height="200" />
 <div>
   <a href="https://github.com/prsousa8/prsousa8/"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prsousa8&show_icons=true&theme=transparent">
@@ -26,5 +28,5 @@
 <div style="display:inline_block">
   <a href="https://www.linkedin.com/in/pauloricardo8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/pauloricardo_176/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-          
 </div>
+
