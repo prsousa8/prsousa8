@@ -4,7 +4,6 @@
 - 🌱 Estudando C# e Javascript
 - 😄 Pronouns: ele/dele
 
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="200" height="200" />
 <div>
   <a href="https://github.com/prsousa8/prsousa8/"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prsousa8&show_icons=true&theme=transparent">
@@ -20,6 +19,8 @@
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
+
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="200" height="200" />
 
 </br>
 
