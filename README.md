@@ -22,6 +22,8 @@
 </div>
 
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="150" height="150" />
+<img align="right" src="https://github.com/prsousa8/prsousa8/assets/125914780/1f2ae03b-b442-494c-9b94-1bb9014e13d0" width="150" height="150"/>
+
 
 </br>
 
@@ -32,3 +34,4 @@
   <a href="https://www.instagram.com/pauloricardo_176/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.kaggle.com/prsousa"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
 </div>
+
