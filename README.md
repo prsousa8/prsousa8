@@ -34,4 +34,3 @@
   <a href="https://www.instagram.com/pauloricardo_176/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.kaggle.com/prsousa"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
 </div>
-
