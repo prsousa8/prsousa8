@@ -1,12 +1,10 @@
-### Olá! Eu sou o Paulo Ricardo
+# Olá! Eu sou o Paulo Ricardo
 
 - 🔭 Estudante de Engenharia de Computação
 - 🌱 Estudando C# e Javascript
-- 😄 Pronouns: ele/dele
 
 <div>
   <a href="https://github.com/prsousa8/prsousa8/"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prsousa8&show_icons=true&theme=transparent">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prsousa8&layout=compact&theme=transparent">
 </div>
 
@@ -20,9 +18,6 @@
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
-
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="150" height="150" />
-<img align="right" src="https://github.com/prsousa8/prsousa8/assets/125914780/1f2ae03b-b442-494c-9b94-1bb9014e13d0" width="150" height="150"/>
 
 
 </br>
