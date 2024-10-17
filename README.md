@@ -1,14 +1,13 @@
-# Olá! Eu sou o Paulo Ricardo
+# Olá! Eu sou o Paulo Ricardo 👋🏽
 
-- 🔭 Estudante de Engenharia de Computação
-- 🌱 Estudando C# e Javascript
+<p align="justify">Sou apaixonado por tecnologia e desenvolvimento web, com foco em Front-end. Ao longo da minha jornada, busquei me especializar em HTML, CSS, JavaScript e no poderoso React. Além disso, estou sempre em busca de aprimorar minhas habilidades e aprender novas tecnologias para entregar soluções inovadoras.</p>
 
-<div>
-  <a href="https://github.com/prsousa8/prsousa8/"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prsousa8&layout=compact&theme=transparent">
-</div>
+# 💻 Sobre mim
+- 🌱 Atualmente estou aprimorando minhas habilidades em React e explorando o mundo do Back-end.
+- 🎓 Concluí uma formação em tecnologias de Front-end pelo programa Oracle Next Education oferecido pela Alura e Oracle.
+- 🧑‍💻 Tenho experiência em criar projetos interativos com React, focando na criação de interfaces de usuário intuitivas e acessíveis.
 
-</br>
+# 🚀 Tecnologias e Ferramentas
 
 <div style="display:inline_block">  
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
@@ -19,13 +18,9 @@
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
 
-
-</br>
-
-### Redes Sociais
+# 📫 Como me encontrar
 
 <div style="display:inline_block">
   <a href="https://www.linkedin.com/in/pauloricardo8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/pauloricardo_176/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.kaggle.com/prsousa"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
 </div>
